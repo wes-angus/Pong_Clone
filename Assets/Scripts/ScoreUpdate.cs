@@ -17,19 +17,19 @@ public class ScoreUpdate : MonoBehaviour
     }
 
     // Use this for initialization
-    void Start ()
+    void Start()
     {
         sr = GetComponent<SpriteRenderer>();
-	}
-	
-	// Update is called once per frame
-	void Update ()
+    }
+
+    // Update is called once per frame
+    void Update()
     {
-		if(score > 9)
+        if (score > 9)
         {
             transform.GetChild(0).GetComponent<Renderer>().enabled = true;
         }
-	}
+    }
 
     public void ChangeScore()
     {
@@ -41,6 +41,6 @@ public class ScoreUpdate : MonoBehaviour
     {
         score = 0;
         sr.sprite = numberSprites[0];
-        transform.GetChild(0).GetComponent<Renderer>().enabled = false;
+        transform.GetChild(0).GetComponent<Renderer>().enabled = true;
     }
 }

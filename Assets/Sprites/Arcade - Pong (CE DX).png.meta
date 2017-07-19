@@ -1,23 +1,22 @@
 fileFormatVersion: 2
-guid: f37c9f4cb8b595947a10e7970abf86d7
-timeCreated: 1499646811
+guid: 72e0dcf3bb428c940b80e751cf0ebff9
+timeCreated: 1500405983
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Arcade - Pong - Pong_0
-    21300002: Arcade - Pong - Pong_1
-    21300004: Arcade - Pong - Pong_2
-    21300006: Arcade - Pong - Pong_3
-    21300008: Arcade - Pong - Pong_4
-    21300010: Arcade - Pong - Pong_5
-    21300012: Arcade - Pong - Pong_6
-    21300014: Arcade - Pong - Pong_7
-    21300016: Arcade - Pong - Pong_8
-    21300018: Arcade - Pong - Pong_9
-    21300020: Arcade - Pong - Pong_10
-    21300022: Arcade - Pong - Pong_11
-    21300024: Arcade - Pong - Pong_12
-    21300026: Arcade - Pong - Pong_13
+    21300000: Arcade - Pong (CE DX)_0
+    21300002: Arcade - Pong (CE DX)_2
+    21300004: Arcade - Pong (CE DX)_4
+    21300006: Arcade - Pong (CE DX)_6
+    21300008: Arcade - Pong (CE DX)_8
+    21300010: Arcade - Pong (CE DX)_9
+    21300012: Arcade - Pong (CE DX)_1
+    21300014: Arcade - Pong (CE DX)_3
+    21300016: Arcade - Pong (CE DX)_5
+    21300018: Arcade - Pong (CE DX)_7
+    21300020: Arcade - Pong (CE DX)_paddle
+    21300022: Arcade - Pong (CE DX)_ball
+    21300024: Arcade - Pong (CE DX)_line
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -41,7 +40,7 @@ TextureImporter:
   textureFormat: 1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: 0
+    filterMode: -1
     aniso: -1
     mipBias: -1
     wrapMode: 1
@@ -84,171 +83,171 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Arcade - Pong - Pong_0
+      name: Arcade - Pong (CE DX)_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 207
-        width: 16
-        height: 32
+        x: 19
+        y: 806
+        width: 89
+        height: 152
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Arcade - Pong - Pong_1
+      name: Arcade - Pong (CE DX)_2
       rect:
         serializedVersion: 2
-        x: 23
-        y: 207
-        width: 4
-        height: 32
+        x: 160
+        y: 807
+        width: 89
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Arcade - Pong - Pong_2
+      name: Arcade - Pong (CE DX)_4
       rect:
         serializedVersion: 2
-        x: 30
-        y: 207
-        width: 16
-        height: 32
+        x: 325
+        y: 810
+        width: 89
+        height: 152
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Arcade - Pong - Pong_3
+      name: Arcade - Pong (CE DX)_6
       rect:
         serializedVersion: 2
-        x: 49
-        y: 207
-        width: 16
-        height: 32
+        x: 477
+        y: 808
+        width: 89
+        height: 154
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Arcade - Pong - Pong_4
+      name: Arcade - Pong (CE DX)_8
       rect:
         serializedVersion: 2
-        x: 68
-        y: 207
-        width: 16
-        height: 32
+        x: 629
+        y: 809
+        width: 89
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Arcade - Pong - Pong_5
+      name: Arcade - Pong (CE DX)_9
       rect:
         serializedVersion: 2
-        x: 87
-        y: 207
-        width: 16
-        height: 32
+        x: 17
+        y: 646
+        width: 89
+        height: 152
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Arcade - Pong - Pong_6
+      name: Arcade - Pong (CE DX)_1
       rect:
         serializedVersion: 2
-        x: 106
-        y: 207
-        width: 16
-        height: 32
+        x: 160
+        y: 647
+        width: 42
+        height: 152
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Arcade - Pong - Pong_7
+      name: Arcade - Pong (CE DX)_3
       rect:
         serializedVersion: 2
-        x: 125
-        y: 207
-        width: 16
-        height: 32
+        x: 258
+        y: 650
+        width: 89
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Arcade - Pong - Pong_8
+      name: Arcade - Pong (CE DX)_5
       rect:
         serializedVersion: 2
-        x: 144
-        y: 207
-        width: 16
-        height: 32
+        x: 415
+        y: 648
+        width: 89
+        height: 152
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Arcade - Pong - Pong_9
+      name: Arcade - Pong (CE DX)_7
       rect:
         serializedVersion: 2
-        x: 163
-        y: 207
-        width: 16
-        height: 32
+        x: 562
+        y: 646
+        width: 89
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Arcade - Pong - Pong_10
+      name: Arcade - Pong (CE DX)_paddle
       rect:
         serializedVersion: 2
-        x: 186
-        y: 3
-        width: 1
-        height: 236
+        x: 112
+        y: 532
+        width: 24
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Arcade - Pong - Pong_11
+      name: Arcade - Pong (CE DX)_ball
       rect:
         serializedVersion: 2
-        x: 29
-        y: 134
-        width: 4
-        height: 14
+        x: 288
+        y: 532
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Arcade - Pong - Pong_12
+      name: Arcade - Pong (CE DX)_line
       rect:
         serializedVersion: 2
-        x: 73
-        y: 134
-        width: 4
-        height: 4
+        x: 736
+        y: 5
+        width: 20
+        height: 956
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
